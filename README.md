@@ -18,7 +18,7 @@
 #The Gross Income Dashboard
 <img width="1049" height="602" alt="Super Market Dashboard (The Gross Income)" src="https://github.com/user-attachments/assets/d4ded97b-19d7-46c0-819f-2b43de44ccce" />
 
-## > Project Insight
+### > Project Insight
 # 1. General Super Market Sales Dashboard
 # Key Metrics:
 - Sum of COGS: 307.59K
