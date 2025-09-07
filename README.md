@@ -18,35 +18,35 @@
 #The Gross Income Dashboard
 <img width="1049" height="602" alt="Super Market Dashboard (The Gross Income)" src="https://github.com/user-attachments/assets/d4ded97b-19d7-46c0-819f-2b43de44ccce" />
 
-### > Project Insight
-# 1. General Super Market Sales Dashboard
-# Key Metrics:
+# > Project Insight
+## 1. General Super Market Sales Dashboard
+### Key Metrics:
 - Sum of COGS: 307.59K
 - Sum of Gross Income: 15.38K
 - Sum of Total Sales: 322.97K
 - Sum of Quantity Sold: 5510
 - Avg. Unit Price: 55.67
 
-# Insights:
-# Top Selling Product Lines by Quantity:
+### Insights:
+### Top Selling Product Lines by Quantity:
 
 - Electronic Accessories (971), Food & Beverages (952), Sports & Travel (920).
 → These three categories are driving the bulk of sales volume.
 
-# Branches Performance:
+### Branches Performance:
 -Branch A (34%), B (33.2%), and C (32.8%) are performing almost evenly.
 
-# Payment Methods:
+### Payment Methods:
 - All three methods (E-wallet, Cash, Credit Card) are almost equally popular, slightly higher for Cash.
 
-# Tax Trends:
+### Tax Trends:
 - Average 5% tax has declined slightly from January (15.5) to March (15.0), showing lower revenue in March compared to January.
 
-# 📌 Takeaway:
+### 📌 Takeaway:
 Sales are well-diversified across branches and product categories. However, there’s a slight dip in revenue in Q1 (Jan–Mar), which needs investigation.
 
-# 2. Super Market Dashboard (The Gross Income Focus)
-# Top Gross Income by Product Lines:
+## 2. Super Market Dashboard (The Gross Income Focus)
+### Top Gross Income by Product Lines:
 
 - Food & Beverages (2.7K), Sports & Travel (2.6K), Electronic Accessories (2.6K).
 - Health & Beauty is the lowest contributor (2.3K).
@@ -56,50 +56,50 @@ Sales are well-diversified across branches and product categories. However, ther
 - Mandalay leads with 5.27K (34.24%).
 - Yangon & Naypyitaw contribute equally (5.06K, 32.88%).
 
-# Monthly Trends:
+### Monthly Trends:
 - February was the weakest month in both total sales and gross income.
 - Recovery visible in March, but not yet back to January levels.
 
-# 📌 Takeaway:
+### 📌 Takeaway:
 - Food & Beverages and Sports & Travel dominate profits. February slump suggests seasonality or external factors (e.g., demand dip). Mandalay appears to be the strongest city market.
 
-# 3. Super Market Dashboard (Total Details Focus)
-# Top Total Sales by Product Lines:
+## 3. Super Market Dashboard (Total Details Focus)
+### Top Total Sales by Product Lines:
 
 - Food & Beverages (56K), Sports & Travel (55K), Electronics (54K).
 - Health & Beauty is lowest (49K).
 - Branch Contribution to Total Sales:
 - Branch A (110.57K, 34.24%) > Branch B & C (106.2K, 32.88% each).
 
-# City Contribution to Total Sales:
+### City Contribution to Total Sales:
 - Mandalay (110.57K) tops, Yangon & Naypyitaw tied at 106.2K.
 
-# Customer Types:
+### Customer Types:
 - No strong difference shown between Members vs Normal.
 
-# Monthly Trends:
+### Monthly Trends:
 - Similar dip in February followed by partial recovery in March.
 
-# 📌 Takeaway:
+### 📌 Takeaway:
 Sales are concentrated in Food, Sports, and Electronics. Branch A and Mandalay city outperform slightly, which aligns with higher gross income from Dashboard #2. February remains a weak month across all metrics.
 
-## >> Overall Cross-Dashboard Insights
-# Top Product Lines:
+# >> Overall Cross-Dashboard Insights
+## Top Product Lines:
 - Food & Beverages, Sports & Travel, and Electronics drive both quantity and revenue.
 - Health & Beauty is consistently the weakest performer.
 
-# Branch & City Performance:
+## Branch & City Performance:
 - Branch A and Mandalay slightly outperform others.
 - But branches and cities are fairly balanced (no single dominant one).
 
-# Payment Preference:
+## Payment Preference:
 - Customers split payments almost evenly between Cash, E-wallet, and Credit cards.
 - This indicates flexibility and no dependency on one method.
 
-# Seasonality:
+## Seasonality:
 - February is a weak month across all metrics → needs further analysis (holidays, supply issues, or low demand).
 
-## >>> ✅ Business Recommendations:
+# >>> ✅ Business Recommendations:
 - Focus promotions on Health & Beauty to boost its performance.
 - Investigate February sales slump and prepare mitigation strategies.
 - Leverage Mandalay + Branch A as strongholds while boosting weaker locations.
