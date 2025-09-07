@@ -1,7 +1,7 @@
 # Data Analysis SuperMarket (PowerBI)
 ## The Used Dataset
 - <a href="[https://github.com/Eng-AhmedAshraf/First-Data-Analysis-Project/blob/main/Data%20Analysis%20Dataset.xlsx](https://github.com/Eng-AhmedAshraf/Data-Analysis-SuperMarket-PowerBI-/blob/main/supermarket_sales.csv)">Dataset</a>
-- The Dataset Link <a href="[https://www.youtube.com/@mohamedalassaal](https://www.kaggle.com/datasets/akashbommidi/super-market-sales)">Dataset Link</a>.
+- The Dataset Link <a href="https://www.kaggle.com/datasets/akashbommidi/super-market-sales">Dataset Link</a>.
 
 ## Process
 - Verify data for any missing or wrong values
@@ -112,4 +112,4 @@ Sales are concentrated in Food, Sports, and Electronics. Branch A and Mandalay c
 
 ## Important Note
 - The Dataset I used is from Kaggle.
-- This is The Dataset Link <a href="[https://www.youtube.com/@mohamedalassaal](https://www.kaggle.com/datasets/akashbommidi/super-market-sales)">Dataset Link</a>.
+- This is The Dataset Link <a href="https://www.kaggle.com/datasets/akashbommidi/super-market-sales">Dataset Link</a>.
